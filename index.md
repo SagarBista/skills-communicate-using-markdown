@@ -1,2 +1,2 @@
 Hello hEllo
-https://octodex.github.com/images/justicetocat.jpg
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
